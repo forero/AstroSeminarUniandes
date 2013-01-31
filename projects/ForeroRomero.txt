@@ -26,4 +26,7 @@ Objetivo: Estimar la órbita de un agujero negro que sale disparado del centro d
 una galaxia para estimar la cantidad total de gas que puede comerse mientras va
 volando.
 
+Método: integrar numéricamente la órbita de una masa puntual en potenciales simplificados, 
+teniendo en cuenta el aumento de masa por acreción de gas.
+
 Palabras clave: Black Hole kicks
