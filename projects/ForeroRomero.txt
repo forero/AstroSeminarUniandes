@@ -1,0 +1,29 @@
+* Large Rotators
+
+Objetivo: Estudiar las galaxias de disco con mayor velocidad de rotación
+y compararlas con lo que se espera de predicciones teóricas.
+
+Método: Buscar en la literatura las galaxias con mayores velocidades de rotación
+y compilar mediciones de su masa estelar. Construir un diagrama
+de velocidad de rotación vs. masa estelar para compararla con predicciones de 
+modelos teóricos. 
+
+Palabras clave: Tully-Fisher
+
+* Milky Way's Halo
+
+Objetivo: Estimar la masa de materia oscura en el halo de nuestra galaxia.
+
+Método: Buscar en la literatura los diferentes métodos para estimar la masa de 
+materia oscura de nuestra galaxia. Intentar deducir a partir de estos métodos
+diferentes un valor preciso de esta masa.
+
+Palabras clave: Dark Matter. Milky Way Mass
+
+* Flying Black Holes
+
+Objetivo: Estimar la órbita de un agujero negro que sale disparado del centro de 
+una galaxia para estimar la cantidad total de gas que puede comerse mientras va
+volando.
+
+Palabras clave: Black Hole kicks
