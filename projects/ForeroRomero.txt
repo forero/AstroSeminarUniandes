@@ -1,4 +1,4 @@
-* Large Rotators
+* Fast Rotators
 
 Objetivo: Estudiar las galaxias de disco con mayor velocidad de rotación
 y compararlas sus propiedades con predicciones teóricas.
