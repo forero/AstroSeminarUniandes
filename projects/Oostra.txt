@@ -1,0 +1,7 @@
+* Rotación Solar.
+
+Objetivo: medir la rotación del Sol.
+
+Método: Mediciones espectrográficas hecha en el Observatorio de la Universidad de los Andes.
+
+

@@ -1,0 +1,6 @@
+* Clasificación de Manchas Solares
+
+Objetivo: observar y clasificar manchas solares.
+
+Método: Mediciones fotométricas hechas en el Observatorio de la Universidad de los Andes. Con esto se busca clasificar cada mancha y ubicarla en un sistema de coordenadas adecuado sobre el Sol.
+ 
