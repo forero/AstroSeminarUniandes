@@ -1,0 +1,11 @@
+Apellidos	Primer informe (30%)	Informe final (30%)	Presentacion (20%)	Asistencia (20%)	Final	Definitiva
+Diaz De la Barrera	4	3.5	4.5	5	4.15	4.0
+Hoyos Restrepo		4.5	4.5	5	5	4.7	5.0
+Lozano Gomez		4	3.5	4	5	4.05	4.0
+Pabon Marquez		4	4.5	4.5	5	4.45	4.5
+Pedraza Jerez		4.5	4.5	4.6	5	4.62	5.0
+Perez Aponte		4.5	1.5	4.5	5	3.7	4.0
+Pinto Alejo		4.5	3.5	3.5	5	4.1	4.0
+Remolina Gutierrez	4.5	4.5	4.8	5	4.66	5.0
+Silva Pena		4	3.5	4	5	4.05	4.0
+Velasco Moreno		4	4	4.2	5	4.24	4.0
