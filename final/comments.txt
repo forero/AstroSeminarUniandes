@@ -1,0 +1,49 @@
+Pinto
+* Wikipedia no es una referencia.
+* Los resultados tienen mas cifras significativas que las necesarias.
+* No hay una leyenda que describa la grafica. A que corresponden los puntos rojos y verdes?
+* Cual es la incertidumbre final sobre la masa total determinada?
+* Como se incluyeron los errores observacionales?
+
+Lozano
+* No hay leyendas que describan las figuras.
+* No hay bibliografia.
+* Las graficas no tienen marcados los ejes.
+* Los resultados tienen mas cifras significativas que las necesarias.
+* No hay estimacion de la incertidumbre en los numeros finales.
+
+Remolina
+* Falta marcar los ejes en la Figura 2.
+* Los resultados tienen mas cifras significativas que las necesarias.
+
+Hoyos
+* Falta una leyenda que describa las figuras.
+* Falta bibliografia
+
+Diaz
+* Falta una mejor introduccion.
+* La metodologia no es clara
+* Falta la bibliografia.
+* Velocidades de rotacion en metros por segundo?
+* Como se comparan los resultados obtenidos con los esperados?
+
+Velasco & Gomez
+* Falta la bibliografia
+* En el movimiento dentro de la galaxia sobre mencionar la friccion dinamica porque no se incluyo en el modelo.
+* Falta una leyenda que describa las figuras.
+* Que el resultado no sea el esperado se debe a que hubo un error en el cambio de unidades.
+
+Pedraza
+* Cual es la incertidumbre final sobre la masa total determinada?
+* Como se incluyeron los errores observacionales?
+
+Silva
+* Cual es la incertidumbre final sobre la masa total determinada?
+* Como se incluyeron los errores observacionales?
+* El resultado se debe explicarpor un error en el cambio de unidades.
+* Faltan explicar mejor el contexto.
+* Cual es la incertidumbre final sobre la masa total determinada?
+
+Pabon
+* Falta un resumen/abstract
+* Se hubieran podido incluir los emails enviados como apendices.
