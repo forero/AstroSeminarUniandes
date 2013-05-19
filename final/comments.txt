@@ -46,4 +46,4 @@ Silva
 
 Pabon
 * Falta un resumen/abstract
-* Se hubieran podido incluir los emails enviados como apendices.
+* Se deberian incluir los emails enviados como apendices del reporte.
