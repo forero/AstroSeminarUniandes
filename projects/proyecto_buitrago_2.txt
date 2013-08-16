@@ -1,0 +1,7 @@
+Proyecto: un modelo hidrodinámico para explicar la propagación de un sismo solar.
+
+Objetivo: Trabajar con un código numerico que modela la fotosfera solar, escrito en C++ llamado "pencil code" para analizar como una serie de ondas se propagan producto de una perturbación acústica en su interior. Al final comparar los resultados obtenidos con los datos observacionales reportados en la literatura científica.
+
+Desarrollo:
+
+Al estudiante se le dará el conjunto de códigos usados en esta simulación, se le enseñara a ejecutarlos adecuadamente y se le asesorará en la interpretación de los resultados.

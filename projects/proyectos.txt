@@ -2,5 +2,6 @@
 - Masas estelares de galaxias con alta velocidad circular (Jaime Forero, je.forero)
 - Medicion de la rotacion del Sol (Benjamin Oostra, boostra)
 - Apoyo en observaciones astronómicas abiertas al público (Juan Camilo Buitrago, jc.buitrago)
-
+un modelo hidrodinámico para explicar la propagación de un sismo solar (Juan Camilo Buitrago)
+- Desarrollo de ideas para astronomia interactiva (German Chaparro, )
 
