@@ -1,0 +1,11 @@
+Proyecto:
+
+Determinar las masas estelares de las galaxias con mayor velocidad de rotacion del Universo Local.
+
+Objetivo: 
+
+Hacer una busqueda bibliografica y algo de modelamiento para estimar masas estelares de galaxias a partir de mediciones fotometricas.
+
+Desarrollo: 
+
+El estudiante que se decida por este proyecto debera elegir 3 galaxias para hacer una busqueda extensiva en bases de datos de observaciones de esas galaxias que puedan dar una idea de la cantidad de masa en estrellas que contienen. Esto incluye enteder como convertir de magnitudes observadas por un telescopio a cantidades fisicas como masa estelar.
