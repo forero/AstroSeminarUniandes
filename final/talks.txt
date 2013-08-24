@@ -1,0 +1,5 @@
+JuanPabloArango		3.0
+SebastianRosales 	5.0
+MariaFernandaGomez	4.0
+DiegoUmana		3.5
+
