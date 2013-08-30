@@ -1,0 +1,12 @@
+DanielLozano 		Espectros-Benjamin
+NicolasRomero 		Espectros-Benjamin
+JoseVillegas		Planetas-Camilo
+SandraHernandez 	Observatorio
+JuanPabloArango 	Observatorio
+SantiagoVega		Galaxias-Jaime
+RamiroMedina		Planetas-Camilo
+MariaFdaGomez		BlackHoles-Jaime
+CarlosHiguera		Galaxias-Jaime
+AngelicaSuarez		Observatorio
+SebastianRosales	Sunquakes-Camilo
+SebastianRosales	Interactivos-German
