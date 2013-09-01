@@ -10,4 +10,6 @@ CarlosHiguera		Galaxias-Jaime
 AngelicaSuarez		Observatorio
 SebastianRosales	Sunquakes-Camilo
 SebastianRosales	Interactivos-German
-JuanCamiloMontoya Interactivos-German
+JuanCamiloMontoya 	Interactivos-German
+LuzAndreaMarino		Observatorio
+
