@@ -1,15 +1,15 @@
+JoseVillegas		Planetas-Camilo
+RamiroMedina		Planetas-Camilo
+SebastianRosales	Sunquakes-Camilo
 DanielLozano 		Espectros-Benjamin
 NicolasRomero 		Espectros-Benjamin
-JoseVillegas		Planetas-Camilo
-SandraHernandez 	Observatorio
-JuanPabloArango 	Observatorio
-SantiagoVega		Galaxias-Jaime
-RamiroMedina		Planetas-Camilo
-MariaFdaGomez		BlackHoles-Jaime
-CarlosHiguera		Galaxias-Jaime
-AngelicaSuarez		Observatorio
-SebastianRosales	Sunquakes-Camilo
 SebastianRosales	Interactivos-German
 JuanCamiloMontoya 	Interactivos-German
 LuzAndreaMarino		Observatorio
-
+NicolasMarchena		Observatorio
+SandraHernandez 	Observatorio
+JuanPabloArango 	Observatorio
+AngelicaSuarez		Observatorio
+CarlosHiguera		Galaxias-Jaime
+SantiagoVega		Galaxias-Jaime
+MariaFdaGomez		BlackHoles-Jaime
