@@ -3,3 +3,5 @@ SebastianRosales 	5.0
 MariaFernandaGomez	4.0
 DiegoUmana		3.5
 AngelicaSuarez 		4.0
+DanielLozano		3.0
+NicolasRomero		3.5
