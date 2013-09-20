@@ -5,4 +5,5 @@ DiegoUmana		3.5
 AngelicaSuarez 		4.0
 DanielLozano		3.0
 NicolasRomero		3.5
-Sandra Hernández 5.0
+SandraHernández  5.0
+RamiroMedina  5.0
