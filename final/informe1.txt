@@ -1,0 +1,13 @@
+JuanPabloArango		5.0
+MariaFernandaGomez	4.5
+AngelicaMariaSuarez	5.0
+SandraYamileHernandez	5.0
+RamiroAndresMedina	4.5
+LuzAndreaMarino		5.0
+SantiagoVega		4.5
+DanielLozano		4.5
+CarlosAndresHiguera	0.0
+NicolasMarchena		0.0
+JuanCamiloMontoya	0.0
+NicolasRomero		0.0
+
