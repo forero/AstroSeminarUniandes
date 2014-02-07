@@ -1,5 +1,6 @@
 - Proceso de dínamo para generación de campo magnético en Europa. (Natalia Gómez).
-- Observaciones espectrográficas del Sol. (Benjamín Oostra).
+- Tomar espectros del Sol, calibrar la longitud de onda, e identificar algunas líneas (Benjamin Oostra)
+- Seguimiento de manchas solares (Benjamín Oostra)
 - Apoyo en los miércoles de observación. (Benjamín Oostra).
 - Cómo detectar la presencia de materia oscura en el laboratorio? (Jaime Forero).
 - Las más grandes estructuras en la red cósmica. (Jaime Forero).
