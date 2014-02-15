@@ -2,6 +2,21 @@
 - Tomar espectros del Sol, calibrar la longitud de onda, e identificar algunas líneas (Benjamin Oostra)
 - Seguimiento de manchas solares (Benjamín Oostra)
 - Apoyo en los miércoles de observación. (Benjamín Oostra).
+	David Alemán
+	Juan Rafael Alvarez
+	Brigitte Pinto
+	Kevin Andrade
+	Juan Pablo Arango
+	Paola Castaño
+	Ana Lucía Martínez
+	Sebastián Pulido
+	Nicolle Palacios
+	Juan Sebastián Sánchez
 - Cómo detectar la presencia de materia oscura en el laboratorio? (Jaime Forero).
-- Las más grandes estructuras en la red cósmica. (Jaime Forero).
+	Jorge Nicolas Hayek
+	Paulina Hoyos Restrepo
+	Sergio Camilo Silva
+- Las estructuras más grandes en la red cósmica. (Jaime Forero).
+	Christian Poveda
 - Planear un proyecto de divulgación astronómica para una comunidad de víctimas de la violencia. (Jaime Forero (Paola Castaño)).
+	Juan Nicolas Garavito
