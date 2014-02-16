@@ -12,6 +12,7 @@
 	Sebastián Pulido
 	Nicolle Palacios
 	Juan Sebastián Sánchez
+	Diego Umaña
 - Cómo detectar la presencia de materia oscura en el laboratorio? (Jaime Forero).
 	Jorge Nicolas Hayek
 	Paulina Hoyos Restrepo
@@ -19,4 +20,4 @@
 - Las estructuras más grandes en la red cósmica. (Jaime Forero).
 	Christian Poveda
 - Planear un proyecto de divulgación astronómica para una comunidad de víctimas de la violencia. (Jaime Forero (Paola Castaño)).
-	Juan Nicolas Garavito
+	Juan Nicolás Garavito
