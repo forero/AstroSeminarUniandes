@@ -1,1 +1,3 @@
 The Astronomical Reach of Fundamental Physics, http://arxiv.org/abs/1401.1814,  Adam Burrows and Jeremiah P. Ostriker
+ BICEP2 I: Detection Of B-mode Polarization at Degree Angular Scales http://arxiv.org/abs/1403.3985v2.pdf
+ BICEP2 II: Experiment and Three-Year Data Set http://arxiv.org/abs/1403.4302
