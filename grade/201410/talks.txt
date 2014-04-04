@@ -1,6 +1,9 @@
 Juan Pablo Arango	4.0
 Christian Poveda	5.0
-Juan Rafael Alvarez	4.0
+Juan Rafael Alvarez	5.0
 Jorge Nicolas Hayek	4.0
 Sergio Silva		4.0
+Paulina Hoyos		4.0
+Maria Camila Remolina	4.0
+Diego Umaña		5.0
 
